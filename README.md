@@ -1,4 +1,6 @@
-### Hi there 👋
+### Learning Ruby on rails/Ruby and ReactJS with NextJS 
+### Use
+### |NodeJS,NestJS,VueJS,Express,MongoDB,MySQL,POSTGRESQL,JavaScript,C++/#,Python|
 
 <!--
 **RamsesRTF/RamsesRTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
